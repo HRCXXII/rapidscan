@@ -66,3 +66,17 @@ docker run -t --rm -v $(pwd)/reports:/reports kanolato/rapidscan example.com
 
 ## Contribution
 - https://gist.github.com/MarcDiethelm/7303312
+
+
+# CARA INSTALL RAPIDSCAN :
+➭ pkg update && pkg upgrade
+➭ pkg install python2
+➭ pkg install php
+➭ pkg install bash
+➭ pkg install git
+➭ git clone https://github.com/NetHunter98/Install-RapidScan.git
+➭ cd install-RapidScan
+➭ ls 
+➭ chmod +x Install-RS
+➭ ls
+➭ bash Install.sh
